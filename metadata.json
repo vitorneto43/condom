@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CondoMaster - Sistema de Gestão Condominial",
+  "description": "Uma plataforma completa para gestão de condomínios, abrangendo desde finanças e reservas até portaria e comunicação interna.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
